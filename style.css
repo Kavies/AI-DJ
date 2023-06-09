@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+body{
+    background-size: cover;
+    font-family: monospace;
+}
+#start,#status,#num_of_objects{
+    font-size: 20px;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    line-height: 3;
+    position:fixed;
+    font-family: monospace;
+}
+canvas{
+    box-shadow: 5px 5px 40px grey;
+    margin-top:100px ;
+}
